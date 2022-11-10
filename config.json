@@ -1,0 +1,9 @@
+{
+	"ip":"CrystalRtp.aternos.me",
+	"port": 26434,
+	"name": "McWarsAfkBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(19771111S)) (type_ur_pass_here(19771111S))",
+	"login-cmd":"/login (19771111S)"
+}
